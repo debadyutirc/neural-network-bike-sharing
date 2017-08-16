@@ -1,2 +1,2 @@
 # neural-network-bike-sharing
-Project 1: Udacity Deep Learning Nannodegree
+Project 1: Udacity Deep Learning Nanodegree
